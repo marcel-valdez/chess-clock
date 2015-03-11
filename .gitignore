@@ -1,0 +1,10 @@
+*.svn
+*.suo
+*.docstates
+ChessClock/obj/
+ChessClock/bin/
+ChessClockSetup/bin/
+ChessClockSetup/obj/
+ChessClockSetup/Debug/
+ChessClockSetup/Release/
+*.user
